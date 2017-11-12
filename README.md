@@ -6,9 +6,6 @@
 
 
 
-
-
-
 <div class="row">
   <div class="column">
     
@@ -18,6 +15,6 @@ Despite the advances of laboratory techniques, computational models allow the sc
 
  </div>
   <div class="column">
- <img src="./Figure1.png" align="left"  width="80%" >
+ <img src="./Figure1.png" align="right"  width="50%" >
  </div>
 </div>
